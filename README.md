@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alwaysappear
-- 👀 I’m interested in Python, C#, JavaScript
-- 🌱 I’m currently learning some frameworks
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kawojue Raheem O. @alwaysappear
+- 👀 I’m interested in Python (Web), C# (App), JavaScript (Web).
+- 🌱 I’m currently learning and practicing to become world-class.
+- 💞️ I’m looking to collaborate on your desired projects.
 - 📫 How to reach me alwaysappear@gmail.com
 
 <!---
