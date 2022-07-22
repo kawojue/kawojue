@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwaysappear)](https://git.io/streak-stats)
+
 - 👋 Hi, I’m Kawojue Raheem O. @alwaysappear
 - 👀 I’m interested in Python (Backend Web), C# (Cross Platform App Dev), JavaScript (Frontend Web).
 - 🌱 I’m currently learning and practicing to become a world-class Programmer.
