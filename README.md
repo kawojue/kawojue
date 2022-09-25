@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer.
 ------------------
 
-I'm an experienced, impact driven developer. I've been learning to code of 3years. I've more experiences in the Frontend development and really good at problem solving.
+I'm an experienced, impact driven developer. I've been learning to code for 3years. I've more experiences in the Frontend and Backend Web Development and really good at problem solving.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [kawojue08@gmail.com; alwaysappear@gmail.com](mailto:kawojue08@gmail.com; alwaysappear@gmail.com)
