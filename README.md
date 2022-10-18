@@ -1,4 +1,4 @@
-Hi! My name is Kawojue Raheem O.
+Hi! My name is Kawojue Raheem Olumuyiwa.
 =========================================================================================================================================
 
 Software Engineer.
