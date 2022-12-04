@@ -9,7 +9,7 @@ I'm an experienced, impact driven developer. I've been learning to code for 3yea
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [kawojue08@gmail.com; alwaysappear@gmail.com](mailto:kawojue08@gmail.com; alwaysappear@gmail.com)
 * 🚀  I'm currently working on [my YouTube channel.](http://youtube.com/c/AlwaysAppear)
-* 🧠  I'm learning Django, React JS, Flutter, Next JS, Node & Express JS.
+* 🧠  I'm learning Django, React JS, Flutter, Next JS, Node & Express JS, .NET Framework, Xamarin.
 * ⚡  Just hire me, already.
 
 <a href="https://www.twitter.com/alwaysappear" target="_blank" rel="noreferrer"><img
