@@ -12,8 +12,6 @@ Software Engineer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysappear)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysappear&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysappear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
