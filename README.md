@@ -13,6 +13,8 @@ I'm an experienced, impact driven developer. I've been learning to code for 3yea
 * ⚡  Just hire me, already.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alwaysappear&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysappear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://www.buymeacoffee.com/alwaysappear"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
