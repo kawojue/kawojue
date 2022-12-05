@@ -12,4 +12,4 @@ I'm an experienced, impact driven developer. I've been learning to code for 3yea
 * 🧠  I'm learning Django, React JS, Flutter, Next JS, Node & Express JS, .NET Framework, Xamarin.
 * ⚡  Just hire me, already.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysappear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysappear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
