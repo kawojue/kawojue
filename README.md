@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kawojue Raheem O.</h1>
+<h1 align="center">Hi, I'm Kawojue Raheem O.</h1>
 <h3 align="center">A Software Engineer from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaysappear&label=Profile%20views&color=0e75b6&style=flat" alt="alwaysappear" /> </p>
@@ -14,10 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/alwaysappear?tab=repositories](https://github.com/alwaysappear?tab=repositories)
 
 - 📫 How to reach me **kawojue08@gmail.com; alwaysappear@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
