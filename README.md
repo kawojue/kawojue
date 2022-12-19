@@ -11,8 +11,6 @@
 
 - 🌱 I'm currently Learning and Crafting to be a **World-class.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alwaysappear?tab=repositories](https://github.com/alwaysappear?tab=repositories)
-
 - 📫 How to reach me **kawojue08@gmail.com; alwaysappear@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
