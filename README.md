@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/alwaysappear" target="blank"><img src="https://img.shields.io/twitter/follow/alwaysappear?logo=twitter&style=for-the-badge" alt="alwaysappear" /></a> </p>
 
-- 🔭 I’m currently working on [My YouTube Channel](https://youtube.com/alwaysappear)
+- 🔭 [My YouTube Channel](https://youtube.com/alwaysappear)
 
 - 🌱 I'm currently Learning and Crafting to be a **World-class.**
 
