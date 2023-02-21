@@ -35,4 +35,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alwaysappear"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="134" alt="kawojue" /></a></p><br><br>
+<p><a href="buymeacoffee.com/kawojue"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="134" alt="kawojue" /></a></p><br><br>
