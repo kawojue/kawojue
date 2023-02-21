@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwaysappear" height="30" width="40" /></a>
+<a href="https://twitter.com/kawojue_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwaysappear" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/17661142/alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17661142/alwaysappear" height="30" width="40" /></a>
 <a href="https://fb.com/alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alwaysappear" height="30" width="40" /></a>
 <a href="https://hashnode.com/@alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alwaysappear" height="30" width="40" /></a>
 <a href="https://medium.com/@alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alwaysappear" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alwaysappear" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alwaysappear" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
