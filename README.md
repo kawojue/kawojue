@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm KAWOJUE RAHEEM OLUMUYIWA.</h1>
 <h3 align="center">A Software Engineer from Nigeria.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawojue&label=Profile%20views&color=0e75b6&style=flat" alt="alwaysappear" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawojue&label=Profile%20views&color=0e75b6&style=flat" alt="kawojue" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kawojue_" target="blank"><img src="https://img.shields.io/twitter/follow/kawojue_?logo=twitter&style=for-the-badge" alt="alwaysappear" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kawojue_" target="blank"><img src="https://img.shields.io/twitter/follow/kawojue_?logo=twitter&style=for-the-badge" alt="kawojue" /></a> </p>
 
 - 🔭 [My YouTube Channel](https://youtube.com/@kawojue)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kawojue_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwaysappear" height="30" width="40" /></a>
+<a href="https://twitter.com/kawojue_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawojue" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/17661142/alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17661142/alwaysappear" height="30" width="40" /></a>
 <a href="https://fb.com/alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alwaysappear" height="30" width="40" /></a>
 <a href="https://hashnode.com/@alwaysappear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alwaysappear" height="30" width="40" /></a>
