@@ -7,7 +7,7 @@
 
 - 🔭 [My YouTube Channel](https://youtube.com/@kawojue)
 
-- 🌱 I'm currently Learning and Crafting to be a **World-class.**
+- 🌱 I'm currently Crafting to be a **World-class.**
 
 - 📫 How to reach me **kawojue08@gmail.com; alwaysappear@gmail.com**
 
