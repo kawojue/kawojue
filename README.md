@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm KAWOJUE RAHEEM OLUMUYIWA.</h1>
+<h1 align="center">I am Kawojue, Raheem Olumuyiwa</h1>
 <h3 align="center">A Software Engineer from Nigeria.</h3>
 # 💫 About Me:
 🔭  [My YouTube Channel](https://youtube.com/@kawojue)<br>🌱 I'm currently Crafting to be a **World-class.**<br>💬 How to reach me (kawojue08@gmail.com); (alwaysappear@gmail.com)
