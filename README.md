@@ -3,7 +3,7 @@
 
 🔭  [My YouTube Channel](https://youtube.com/@kawojue)<br>🌱 I'm currently Crafting to be a **World-class.**<br>💬 How to reach me (kawojue08@gmail.com); (alwaysappear@gmail.com)
 
-#### 💼 I am currently looking for a Frontend/Backend Developer Role 
+#### 💼 I am currently looking for a Frontend/Backend Development Role 
 
 
 ## 🌐 Socials:
