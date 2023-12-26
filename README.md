@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kawojue&theme=dark&hide_border=false)<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawojue)](https://github.com/kawojue/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawojue&layout=compact)](https://github.com/kawojue/github-readme-stats)<br />
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kawojue) 
 
