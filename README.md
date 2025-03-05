@@ -1,7 +1,7 @@
 <h1 align="center">I am Kawojue, Raheem Olumuyiwa</h1>
 <h3 align="center">Software Engineer</h3>
 
-🔭  [My YouTube Channel](https://youtube.com/@kawojue)<br>🌱 I'm currently Crafting to be a **World-class.**<br>💬 How to reach me (kawojue08@gmail.com); (alwaysappear@gmail.com)
+💬 How to reach me (kawojue08@gmail.com); (alwaysappear@gmail.com)
 
 
 ## 🌐 Socials:
