@@ -2,15 +2,6 @@
 <h2 align="center">Software Engineer</h2>
 <h3 align="center">Reputedly Cracked</h3>
 
-<div align="center">
-  <a href="https://commit-history.com/kawojue">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/kawojue?theme=dark" />
-      <img alt="kawojue's commit history" src="https://commit-history.com/embed/kawojue" />
-    </picture>
-  </a>
-</div>
-
 💬 How to reach me (kawojue08@gmail.com); (alwaysappear@gmail.com)
 
 
