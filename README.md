@@ -1,8 +1,6 @@
-<h1>I am KAWOJUE, RAHEEM OLUMUYIWA,</h1>
-<h2 align="center">Software Engineer</h2>
-<h3 align="center">Reputedly Cracked</h3>
+<h1>I am KAWOJUE, RAHEEM OLUMUYIWA</h1>
 
-💬 How to reach me (kawojue08@gmail.com); (alwaysappear@gmail.com)
+💬 Let's talk (kawojue08@gmail.com); (alwaysappear@gmail.com)
 
 
 ## 🌐 Socials:
